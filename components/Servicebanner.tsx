@@ -1,7 +1,7 @@
 import React from "react";
 import icon1 from "../public/images/Icon.png"
-import icon2 from "../public/images/Icon (1).png"
-import icon3 from "../public/images/Icon (2).png"
+import icon2 from "../public/images/icon2.png"
+import icon3 from "../public/images/icon3.png"
 import Image from "next/image";
 
 const Servicebanner = () => {
