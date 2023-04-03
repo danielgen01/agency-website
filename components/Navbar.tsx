@@ -47,7 +47,7 @@ const Navbar = () => {
       </div>
       <button
         type="button"
-        className="bg-neon-green font-bold px-3 py-3 rounded-2xl text-xl mr-5 hover:opacity-90 hidden lg:block"
+        className="bg-neon-green font-bold px-3 py-3 rounded-3xl text-xl mr-5 hover:opacity-90 hidden lg:block"
       >
         Book a call
       </button>
