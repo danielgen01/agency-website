@@ -1,5 +1,6 @@
 import Mainbanner from "@/components/Mainbanner"
 import Navbar from "@/components/Navbar"
+import Servicebanner from "@/components/Servicebanner"
 import Head from "next/head"
 import Image from "next/image"
 
@@ -16,6 +17,7 @@ export default function Home() {
       <Navbar />
       <main>
         <Mainbanner />
+        <Servicebanner />
       </main>
     </div>
   )

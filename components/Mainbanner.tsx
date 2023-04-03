@@ -29,10 +29,7 @@ const Mainbanner = () => {
           </button>
         </div>
       </div>
-        <Image 
-        src={Rating}
-        alt="Rating"
-        />
+      <Image src={Rating} alt="Rating" />
     </section>
   )
 }
