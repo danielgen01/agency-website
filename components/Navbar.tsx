@@ -8,7 +8,7 @@ import { BsChevronDown } from "react-icons/bs"
 const Navbar = () => {
   return (
     <nav className="flex justify-between items-center h-32 w-full">
-      <div className="logo flex items-center gap-5 ml-10">
+      <div className="logo flex items-center gap-5 lg:ml-10">
         <Image src={logo} alt="Logo" className="" />
         <h2 className="text-bright-neon-green font-bold text-4xl">Designzoo</h2>
       </div>
