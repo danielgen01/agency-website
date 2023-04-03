@@ -5,6 +5,10 @@
   font-family: "DarkerGrotesque";
   src: url("../public/font/DarkerGrotesque-Regular.ttf");
 }
+@font-face {
+  font-family: "DarkerGrotesqueExtraBold";
+  src: url("../public/font/DarkerGrotesque-ExtraBold.ttf");
+}
 
 body {
     font-family: "DarkerGrotesque", Arial, Helvetica, sans-serif ;
